@@ -1,2 +1,3 @@
 # Java
-Projetos feitos em Java
+
+Acompanhe meu aprendizado na linguagem e meus projetos
